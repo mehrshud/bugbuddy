@@ -1,0 +1,121 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+/dist/
+/build/
+/venv/
+*.egg-info/
+.installed.cfg
+*/__egg*
+
+# TensorFlow logs
+/tf_logs/
+
+# Flask logs
+/logs/
+*.log
+
+# PyInstaller
+/dist/
+/build/
+
+# Python package directories
+/*.egg-info
+/.eggs
+
+# mkdocs documentation
+/site/
+
+# mypy
+/.mypy_cache/
+
+# IDEs and editors
+/.vscode/
+/.idea/
+/.eclipse/
+/.DS_Store
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# PyCharm
+/.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files
+/data/
+
+# Model files
+/models/
+
+# TensorBoard
+/tensorboard/
+
+# Other
+ *.pyc
+ *.pyo
+ *.pyd
+ *.tmp
+ *.bak
+ *.swp
+ .cache
+ .gitattributes
+ .gitmodules
+ .history
+ .ipynb
+ ipython.log
+ ipython_debug.py
+ *.pid
+ *.seed
+ *.tgz
+ *.tar.gz
+ *.zip
+
+# Git
+.git/
+.gitignore
+
+# Flask
+instance/
+/.flaskenv
+ flask.db
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+
+# Other
+__init__.py
+__main__.py
+*.json
+*.csv
+*.yaml
+*.yml
+ requirements.txt
+ README.md
+ LICENSE
+ setup.py
+ manage.py
+ config.py
+ tests/
+ test_*
+ __pycache__/
+*.pth
+*.pt
+*.model
+*.h5
